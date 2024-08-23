@@ -1,4 +1,4 @@
-# ** README File**
+# **README File**
 
 ## **Embedding endpoints**
 
