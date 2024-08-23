@@ -16,10 +16,9 @@ This code was tested in Windows 10
 To install Embedding endpoints, follow these steps:
 
 1. Clone the repository 
-2. Navigate to the project directory: **cd endpoints**
-3. Install dependencies: **pip install -r requirements.txt**
-4. Install Ollama from here **https://ollama.com/download**
-5. Install Postman from here **https://www.postman.com/downloads/**
+2. Install dependencies: **pip install -r requirements.txt**
+3. Install Ollama from here **https://ollama.com/download**
+4. Install Postman from here **https://www.postman.com/downloads/**
 
 ## **Before executing the code**
 
