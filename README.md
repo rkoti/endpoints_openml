@@ -1,6 +1,4 @@
-# **README File**
-
-## **Embedding endpoints**
+# **README File for Embedding endpoints**
 
 ## **Introduction**
 Embedding points is a project that provides a simple endpoints for 
